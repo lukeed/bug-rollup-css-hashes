@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "rollup-hash-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "8.4.0",
+    "rollup": "2.23.0"
+  },
+  "dependencies": {
+    "clsx": "1.1.1",
+    "navaid": "1.1.1"
+  }
+}
